@@ -1,0 +1,9 @@
+Building LyraCoin
+
+See doc/readme-qt.rst for instructions on building LyraCoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of LyraCoin.
+
+See doc/build-*.txt for instructions on building lyracoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of LyraCoin.
